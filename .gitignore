@@ -1,0 +1,16 @@
+# CMake build files
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE settings
+.idea/workspace.xml
+.idea/tasks.xml
